@@ -1,1 +1,1 @@
-web: java -jar target/expense-tracker-backend-1.0.0-SNAPSHOT.jar
+web: java -jar target/testapp-0.0.1-SNAPSHOT.jar
